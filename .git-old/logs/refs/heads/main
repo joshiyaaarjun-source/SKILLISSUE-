@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 90c25805c213e781344507c9478ba6877dd57633 agent <agent@replit.com> 1775612830 +0000	commit (initial): Initial commit
+90c25805c213e781344507c9478ba6877dd57633 73e5388032d7dc76af1d5812c0fbbfbc0d708565 joshiyaaarjun <49146607-joshiyaaarjun@users.noreply.replit.com> 1775726736 +0000	commit: Add all core features for the Skillissu application
+73e5388032d7dc76af1d5812c0fbbfbc0d708565 223d22145b34d9fc35afdc7c3b3fb9ca394ab767 joshiyaaarjun <49146607-joshiyaaarjun@users.noreply.replit.com> 1775731189 +0000	commit: Add new features for user onboarding, chat, and skill verification
+223d22145b34d9fc35afdc7c3b3fb9ca394ab767 0f8270757a572ae9e5c14d4f0d99f2e6d9c56483 joshiyaaarjun <49146607-joshiyaaarjun@users.noreply.replit.com> 1775735140 +0000	commit: Published your App
+0f8270757a572ae9e5c14d4f0d99f2e6d9c56483 bc9bd65bf100e5fd8fe8a64469cbf0f2e44323c9 joshiyaaarjun <49146607-joshiyaaarjun@users.noreply.replit.com> 1775786464 +0000	commit: Add onboarding flow with new fields for user profiles
+bc9bd65bf100e5fd8fe8a64469cbf0f2e44323c9 c801a4d7df8f417c20ecd7a8f5c0a0e0918c06c7 joshiyaaarjun <49146607-joshiyaaarjun@users.noreply.replit.com> 1775787200 +0000	commit: Update user profiles and match system with new features
+c801a4d7df8f417c20ecd7a8f5c0a0e0918c06c7 6ba17de8762ed8d317bc522406e837236d2b0ebf joshiyaaarjun <49146607-joshiyaaarjun@users.noreply.replit.com> 1776608496 +0000	commit: Add AI skill coach and smart learning paths features
+6ba17de8762ed8d317bc522406e837236d2b0ebf 9e7f151302e9ac4f86b61e13eb42c6e2f2e4f79a joshiyaaarjun <49146607-joshiyaaarjun@users.noreply.replit.com> 1777295332 +0000	commit: Add video session functionality and feedback system for skill exchanges
+9e7f151302e9ac4f86b61e13eb42c6e2f2e4f79a 62ce46fcdd32bbf967426e3e4abd81c041984e6e joshiyaaarjun <49146607-joshiyaaarjun@users.noreply.replit.com> 1777297451 +0000	commit: Add gamification, notifications, and new skill features
+62ce46fcdd32bbf967426e3e4abd81c041984e6e 7076276839073582c117b967c8291fe817a7633e Replit Agent <replit-agent@bots.noreply.replit.com> 1779981510 +0000	commit: Add several new features and improve existing ones across the app
+7076276839073582c117b967c8291fe817a7633e ac70980da6accfbabf2e39e5d1d76f7ad9ab425d Replit Agent <agent@replit.com> 1780326905 +0000	commit: Add new features and improve user experience across the app
+ac70980da6accfbabf2e39e5d1d76f7ad9ab425d 2ada8a8c4db37f08167b47051652e1cbbe7d9ad6 Replit Agent <agent@replit.com> 1789016142 +0000
+2ada8a8c4db37f08167b47051652e1cbbe7d9ad6 7390365d7d52a3ae7c4cbb1f74ec223d56eacc3a Replit Agent <agent@replit.com> 1791450582 +0000
+7390365d7d52a3ae7c4cbb1f74ec223d56eacc3a 46ea97d5f3d6ecca320ace715a0477b2fcf7b37d Replit Agent <agent@replit.com> 1791451067 +0000
+46ea97d5f3d6ecca320ace715a0477b2fcf7b37d 9a467d82ac0bdb6d30b5fe2a88fe9b56a8137645 Replit Agent <agent@replit.com> 1791452174 +0000
+9a467d82ac0bdb6d30b5fe2a88fe9b56a8137645 ef29abfe6ea79c79e8f72e085d3c5ccea016b17a Replit Agent <agent@replit.com> 1791452523 +0000
+ef29abfe6ea79c79e8f72e085d3c5ccea016b17a 1cbe37d8426045e8762efc23c9daa7c19c69589f joshiyaaarjun-source <joshiyaa.arjun@gmail.com> 1791453177 +0000	commit: feat: complete SKILLISSUE skill exchange platform
